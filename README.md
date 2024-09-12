@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil 🐱💙
+## vindas ao meu perfil 🐱💙
 
 meu nome é Deborah
 
@@ -6,7 +6,7 @@ meu nome é Deborah
 - Estou me desnvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Vocẽ entrar em contato comigo 📫
+### Vocẽ pode entrar em contato comigo 📫
 deborah.vitorio@escola.pr.gov.br
 
 ![](https://media1.tenor.com/m/NBLqK1N-L8sAAAAC/ellie-tlou2.gif)
